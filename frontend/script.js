@@ -1,4 +1,4 @@
-const API="http://127.0.0.1:8000";
+const API="https://verifyai-gqc9.onrender.com";
 const $=id=>document.getElementById(id);
 const aiText=$("aiText"),codeText=$("codeText"),language=$("language"),infoPanel=$("infoPanel"),codePanel=$("codePanel"),documentPanel=$("documentPanel"),results=$("results"),codeResults=$("codeResults"),urlText=$("urlText"),urlPanel=$("urlPanel"),loginScreen=$("loginScreen"),app=$("app");
 let currentMode="information", GOOGLE_CLIENT_ID="";

@@ -8,3 +8,4 @@ google-auth
 pypdf
 beautifulsoup4
 python-multipart
+tavily-python
